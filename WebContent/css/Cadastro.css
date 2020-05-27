@@ -1,0 +1,37 @@
+html,   
+body {
+    background-color: #eaeaea;
+    height: 100%;
+    margin: 0% 0%;
+   
+}
+body {
+    padding-top: 50px; 
+}
+#container{
+     background-color:#fcfcfc;
+     margin: -20px 150px 0px 150px;
+}
+#campos{
+    margin: 0px -150px 0px 200px;
+    
+}
+h2{
+    color: black;
+}
+h5{
+    color: #797979;
+    font-size: 
+}
+#cvv{
+    margin: 0% 0% 15% 0%;
+}
+
+footer {
+    margin: 9px 0px;
+    background-color: black;
+}
+.conteiner-footer{
+    margin: 555px 80px 0px;
+    height: 100px;
+}
